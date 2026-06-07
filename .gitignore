@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# OS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor/IDE local settings
+.idea/
+.vscode/
+
+# Local PNG inputs/outputs
+input.png
+output.png
+encrypted.png
+decrypted.png
+shark.png
